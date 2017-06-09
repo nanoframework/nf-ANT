@@ -18,7 +18,7 @@ using nanoFramework.ANT.Services.StorageService;
 
 namespace nanoFramework.ANT.ViewModels
 {
-    [ImplementPropertyChanged]
+    [AddINotifyPropertyChangedInterface]
     public abstract class MyViewModelBase : GalaSoft.MvvmLight.ViewModelBase, INavigable
     {
         [JsonIgnore]

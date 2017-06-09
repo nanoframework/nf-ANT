@@ -12,7 +12,7 @@ using Windows.Storage;
 
 namespace nanoFramework.ANT.Models
 {
-    [ImplementPropertyChanged]
+    [AddINotifyPropertyChangedInterface]
     public class DeployFile
     {
         public StorageFile DFile { get; set; }
