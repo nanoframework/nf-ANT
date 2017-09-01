@@ -14,6 +14,11 @@ For documentation, providing feedback, issues and finding out how to contribute 
 Join our Slack community by filling in this [invite form](https://nanoframework.wordpress.com/slack-invite-form/).
 
 
+## Credits
+
+The list of contributors to this project can be found at [CONTRIBUTORS](https://github.com/nanoframework/Home/blob/master/CONTRIBUTORS.md).
+
+
 ## License
 
 The nanoFramework ANT is licensed under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
